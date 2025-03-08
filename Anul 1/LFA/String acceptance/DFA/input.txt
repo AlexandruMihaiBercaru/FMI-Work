@@ -1,0 +1,1333 @@
+86
+4609 514 3588 1548 5135 8210 2073 9761 7207 2604 559 3633 4659 5688 585 6220 5204 3673 3678 104 4205 9842 1149 9348 3205 6297 9904 5299 6326 5827 196 4300 6861 2254 6350 9955 6372 2788 8419 8936 8937 7915 1774 8434 9977 1273 1291 1292 785 1307 1821 3362 5942 4424 329 5456 2387 1878 2904 7007 7019 2414 368 7543 383 9088 7552 6534 6543 7568 2454 2462 9119 934 9145 955 1992 8140 4560 8148 8665 6640 1523 3573 9720 8698
+6
+o f d v y s
+5827
+85
+4609 514 3588 1548 5135 8210 2073 9761 7207 2604 3633 4659 5688 585 6220 5204 3673 3678 104 4205 9842 1149 9348 3205 6297 9904 5299 6326 5827 196 4300 6861 2254 6350 9955 2788 6372 8419 8936 8937 7915 1774 8434 1273 9977 1291 1292 785 1307 1821 3362 5942 4424 329 5456 2387 1878 2904 7007 7019 2414 368 7543 383 7552 9088 6534 6543 7568 2454 2462 9119 934 9145 955 1992 8140 4560 8148 8665 6640 1523 3573 9720 8698
+300
+1523 y 955
+2254 o 955
+9720 v 785
+8419 o 5827
+6861 f 7915
+5204 s 4609
+934 v 5688
+8210 f 559
+5942 o 7915
+8210 s 9088
+1992 d 6326
+9955 y 329
+1821 o 9761
+514 y 9088
+6543 v 955
+2904 f 1992
+7915 f 8148
+2462 d 5299
+6297 d 8698
+8210 v 8698
+4560 s 9904
+5688 v 6640
+5827 v 2604
+6220 o 8665
+1291 o 8210
+3633 v 2387
+1878 y 4300
+2414 d 6372
+9977 y 8140
+2604 o 5827
+6326 y 9720
+6297 o 104
+1878 v 5942
+5204 f 4609
+1149 y 514
+514 v 5204
+2387 y 9955
+8210 y 1292
+5456 s 2454
+1774 y 1821
+5135 v 1774
+7543 y 6326
+559 o 2788
+585 v 9720
+9088 o 9088
+6350 s 9145
+5456 v 368
+6372 y 5204
+2788 y 6640
+9145 f 1774
+2454 y 6543
+8936 y 8665
+1292 f 1548
+5688 d 2254
+9119 s 7207
+4300 d 4300
+1548 d 785
+9904 f 585
+2904 v 1307
+6297 y 383
+5456 y 2414
+2462 s 2387
+9955 f 6326
+196 y 2414
+3678 y 4609
+4659 d 383
+3678 s 3362
+2387 o 3673
+368 f 7568
+3673 y 5942
+6372 f 7007
+1992 o 6861
+2462 o 1992
+1821 d 1774
+8140 f 514
+1292 y 585
+7019 f 585
+6297 v 514
+9720 d 4560
+6640 d 6640
+9088 v 5456
+1149 s 4424
+7915 s 8936
+196 v 9088
+5299 o 5827
+1548 s 4300
+329 o 5135
+2387 v 6350
+7568 v 9088
+6534 v 9842
+5942 v 383
+934 o 3205
+6534 d 383
+6534 y 514
+3673 o 1292
+1149 d 1292
+1774 d 7007
+1548 y 3633
+6372 v 4205
+9348 d 2254
+5299 y 1273
+1273 f 6297
+4609 v 2462
+1878 d 6640
+9720 o 5456
+1292 s 104
+9842 y 2254
+9088 f 8148
+6640 y 1992
+7019 v 934
+3362 v 955
+6543 o 3678
+3205 f 2454
+8937 s 9955
+9145 s 7543
+9904 v 1878
+5204 y 585
+8698 y 9761
+1307 o 9761
+3573 o 8434
+3588 y 1291
+4205 f 6350
+9088 s 9977
+8665 s 7915
+8665 d 8419
+1291 f 8434
+4560 v 6326
+2604 v 2604
+9761 o 4560
+7207 y 5204
+5456 d 7007
+6543 s 7915
+4205 s 8148
+383 y 5942
+2414 y 6326
+3205 s 7568
+2788 s 1878
+5135 y 934
+3362 d 5204
+9088 d 6543
+4609 o 1307
+4659 s 6372
+9955 v 8936
+383 d 3205
+4424 d 7915
+1774 s 585
+7007 v 8698
+104 f 3588
+9145 v 1523
+6350 f 6350
+4560 o 7019
+9720 s 7007
+9955 d 2387
+5688 f 2387
+5827 f 9842
+4659 v 2254
+7543 o 1548
+8148 o 9088
+514 s 6326
+1291 v 196
+1878 f 9119
+6640 v 2604
+3673 v 514
+1821 f 9955
+6350 o 1307
+9348 f 5827
+934 f 1149
+104 y 2414
+7543 d 3362
+8148 d 2454
+4609 s 9348
+3588 v 6372
+9842 f 2387
+4659 y 383
+2073 d 6297
+2462 y 6543
+1273 s 329
+8937 f 5942
+1821 v 3633
+3633 o 7007
+4205 y 8937
+955 d 8434
+9904 d 2387
+1273 d 5135
+9720 y 5827
+9720 f 9348
+2387 d 3588
+5204 v 9348
+7543 s 8210
+1774 f 585
+5135 f 1291
+196 f 2904
+3362 s 8419
+2387 f 3673
+1292 d 6220
+6326 d 8140
+1149 f 8210
+8665 v 8148
+7915 v 9720
+955 y 1821
+9761 s 2788
+2904 o 8419
+8210 o 6350
+8698 d 9088
+7543 f 1523
+7007 o 8698
+5688 y 5204
+2073 o 8937
+2604 f 5942
+8419 f 2387
+4300 v 368
+1878 s 1774
+6861 o 8148
+585 s 5827
+7207 s 2414
+2604 s 785
+4609 y 2904
+4560 y 7915
+2254 s 8148
+9904 o 9088
+3673 f 9088
+7207 o 6372
+7007 d 1992
+6861 s 6543
+9761 y 2462
+1149 o 1878
+8698 f 1992
+7552 s 6220
+368 v 6297
+3673 d 4560
+4659 f 6350
+8434 s 5688
+4424 f 6297
+8434 y 1273
+1523 s 8936
+2454 v 2073
+7207 d 7019
+2454 o 6534
+6326 s 2604
+9904 s 1292
+7552 d 9977
+1307 f 1774
+6543 y 8148
+368 s 8419
+7007 f 9977
+9145 y 4609
+1307 v 8210
+8140 d 514
+514 f 8210
+383 s 6326
+9842 s 6350
+368 y 9904
+2414 o 1774
+8936 v 6220
+5942 f 1149
+8698 s 7019
+5827 d 6640
+9119 f 9720
+3362 f 3633
+8936 f 196
+5456 f 8698
+5299 s 3205
+8210 d 1307
+2073 f 9842
+785 s 3573
+1291 y 329
+329 f 4609
+2788 d 2454
+329 d 3573
+7915 d 6640
+2414 s 4609
+9977 v 4424
+6220 s 9955
+4300 s 9842
+1307 d 1774
+383 f 3633
+585 f 2254
+9348 v 9977
+8698 v 3678
+7007 y 2788
+559 v 9977
+955 v 7007
+934 y 3678
+2454 s 8419
+2387 s 1273
+3205 o 8140
+8937 d 1273
+5204 d 4424
+2073 v 9842
+7019 d 2904
+2254 d 1149
+9955 s 6640
+104 s 1523
+785 y 559
+9761 f 1291
+559 y 2788
+5942 y 6297
+2788 v 9119
+1992 v 559
+1523 d 9761
+1024
+o
+f
+d
+v
+y
+s
+oo
+of
+od
+ov
+oy
+os
+fo
+ff
+fd
+fv
+fy
+fs
+do
+df
+dd
+dv
+dy
+ds
+vo
+vf
+vd
+vv
+vy
+vs
+yo
+yf
+yd
+yv
+yy
+ys
+so
+sf
+sd
+sv
+sy
+ss
+ooo
+oof
+ood
+oov
+ooy
+oos
+ofo
+off
+ofd
+ofv
+ofy
+ofs
+odo
+odf
+odd
+odv
+ody
+ods
+ovo
+ovf
+ovd
+ovv
+ovy
+ovs
+oyo
+oyf
+oyd
+oyv
+oyy
+oys
+oso
+osf
+osd
+osv
+osy
+oss
+foo
+fof
+fod
+fov
+foy
+fos
+ffo
+fff
+ffd
+ffv
+ffy
+ffs
+fdo
+fdf
+fdd
+fdv
+fdy
+fds
+fvo
+fvf
+fvd
+fvv
+fvy
+fvs
+fyo
+fyf
+fyd
+fyv
+fyy
+fys
+fso
+fsf
+fsd
+fsv
+fsy
+fss
+doo
+dof
+dod
+dov
+doy
+dos
+dfo
+dff
+dfd
+dfv
+dfy
+dfs
+ddo
+ddf
+ddd
+ddv
+ddy
+dds
+dvo
+dvf
+dvd
+dvv
+dvy
+dvs
+dyo
+dyf
+dyd
+dyv
+dyy
+dys
+dso
+dsf
+dsd
+dsv
+dsy
+dss
+voo
+vof
+vod
+vov
+voy
+vos
+vfo
+vff
+vfd
+vfv
+vfy
+vfs
+vdo
+vdf
+vdd
+vdv
+vdy
+vds
+vvo
+vvf
+vvd
+vvv
+vvy
+vvs
+vyo
+vyf
+vyd
+vyv
+vyy
+vys
+vso
+vsf
+vsd
+vsv
+vsy
+vss
+yoo
+yof
+yod
+yov
+yoy
+yos
+yfo
+yff
+yfd
+yfv
+yfy
+yfs
+ydo
+ydf
+ydd
+ydv
+ydy
+yds
+yvo
+yvf
+yvd
+yvv
+yvy
+yvs
+yyo
+yyf
+yyd
+yyv
+yyy
+yys
+yso
+ysf
+ysd
+ysv
+ysy
+yss
+soo
+sof
+sod
+sov
+soy
+sos
+sfo
+sff
+sfd
+sfv
+sfy
+sfs
+sdo
+sdf
+sdd
+sdv
+sdy
+sds
+svo
+svf
+svd
+svv
+svy
+svs
+syo
+syf
+syd
+syv
+syy
+sys
+sso
+ssf
+ssd
+ssv
+ssy
+sss
+oooo
+ooof
+oood
+ooov
+oooy
+ooos
+oofo
+ooff
+oofd
+oofv
+oofy
+oofs
+oodo
+oodf
+oodd
+oodv
+oody
+oods
+oovo
+oovf
+oovd
+oovv
+oovy
+oovs
+ooyo
+ooyf
+ooyd
+ooyv
+ooyy
+ooys
+ooso
+oosf
+oosd
+oosv
+oosy
+ooss
+ofoo
+ofof
+ofod
+ofov
+ofoy
+ofos
+offo
+offf
+offd
+offv
+offy
+offs
+ofdo
+ofdf
+ofdd
+ofdv
+ofdy
+ofds
+ofvo
+ofvf
+ofvd
+ofvv
+ofvy
+ofvs
+ofyo
+ofyf
+ofyd
+ofyv
+ofyy
+ofys
+ofso
+ofsf
+ofsd
+ofsv
+ofsy
+ofss
+odoo
+odof
+odod
+odov
+odoy
+odos
+odfo
+odff
+odfd
+odfv
+odfy
+odfs
+oddo
+oddf
+oddd
+oddv
+oddy
+odds
+odvo
+odvf
+odvd
+odvv
+odvy
+odvs
+odyo
+odyf
+odyd
+odyv
+odyy
+odys
+odso
+odsf
+odsd
+odsv
+odsy
+odss
+ovoo
+ovof
+ovod
+ovov
+ovoy
+ovos
+ovfo
+ovff
+ovfd
+ovfv
+ovfy
+ovfs
+ovdo
+ovdf
+ovdd
+ovdv
+ovdy
+ovds
+ovvo
+ovvf
+ovvd
+ovvv
+ovvy
+ovvs
+ovyo
+ovyf
+ovyd
+ovyv
+ovyy
+ovys
+ovso
+ovsf
+ovsd
+ovsv
+ovsy
+ovss
+oyoo
+oyof
+oyod
+oyov
+oyoy
+oyos
+oyfo
+oyff
+oyfd
+oyfv
+oyfy
+oyfs
+oydo
+oydf
+oydd
+oydv
+oydy
+oyds
+oyvo
+oyvf
+oyvd
+oyvv
+oyvy
+oyvs
+oyyo
+oyyf
+oyyd
+oyyv
+oyyy
+oyys
+oyso
+oysf
+oysd
+oysv
+oysy
+oyss
+osoo
+osof
+osod
+osov
+osoy
+osos
+osfo
+osff
+osfd
+osfv
+osfy
+osfs
+osdo
+osdf
+osdd
+osdv
+osdy
+osds
+osvo
+osvf
+osvd
+osvv
+osvy
+osvs
+osyo
+osyf
+osyd
+osyv
+osyy
+osys
+osso
+ossf
+ossd
+ossv
+ossy
+osss
+fooo
+foof
+food
+foov
+fooy
+foos
+fofo
+foff
+fofd
+fofv
+fofy
+fofs
+fodo
+fodf
+fodd
+fodv
+fody
+fods
+fovo
+fovf
+fovd
+fovv
+fovy
+fovs
+foyo
+foyf
+foyd
+foyv
+foyy
+foys
+foso
+fosf
+fosd
+fosv
+fosy
+foss
+ffoo
+ffof
+ffod
+ffov
+ffoy
+ffos
+fffo
+ffff
+fffd
+fffv
+fffy
+fffs
+ffdo
+ffdf
+ffdd
+ffdv
+ffdy
+ffds
+ffvo
+ffvf
+ffvd
+ffvv
+ffvy
+ffvs
+ffyo
+ffyf
+ffyd
+ffyv
+ffyy
+ffys
+ffso
+ffsf
+ffsd
+ffsv
+ffsy
+ffss
+fdoo
+fdof
+fdod
+fdov
+fdoy
+fdos
+fdfo
+fdff
+fdfd
+fdfv
+fdfy
+fdfs
+fddo
+fddf
+fddd
+fddv
+fddy
+fdds
+fdvo
+fdvf
+fdvd
+fdvv
+fdvy
+fdvs
+fdyo
+fdyf
+fdyd
+fdyv
+fdyy
+fdys
+fdso
+fdsf
+fdsd
+fdsv
+fdsy
+fdss
+fvoo
+fvof
+fvod
+fvov
+fvoy
+fvos
+fvfo
+fvff
+fvfd
+fvfv
+fvfy
+fvfs
+fvdo
+fvdf
+fvdd
+fvdv
+fvdy
+fvds
+fvvo
+fvvf
+fvvd
+fvvv
+fvvy
+fvvs
+fvyo
+fvyf
+fvyd
+fvyv
+fvyy
+fvys
+fvso
+fvsf
+fvsd
+fvsv
+fvsy
+fvss
+fyoo
+fyof
+fyod
+fyov
+fyoy
+fyos
+fyfo
+fyff
+fyfd
+fyfv
+fyfy
+fyfs
+fydo
+fydf
+fydd
+fydv
+fydy
+fyds
+fyvo
+fyvf
+fyvd
+fyvv
+fyvy
+fyvs
+fyyo
+fyyf
+fyyd
+fyyv
+fyyy
+fyys
+fyso
+fysf
+fysd
+fysv
+fysy
+fyss
+fsoo
+fsof
+fsod
+fsov
+fsoy
+fsos
+fsfo
+fsff
+fsfd
+fsfv
+fsfy
+fsfs
+fsdo
+fsdf
+fsdd
+fsdv
+fsdy
+fsds
+fsvo
+fsvf
+fsvd
+fsvv
+fsvy
+fsvs
+fsyo
+fsyf
+fsyd
+fsyv
+fsyy
+fsys
+fsso
+fssf
+fssd
+fssv
+fssy
+fsss
+dooo
+doof
+dood
+doov
+dooy
+doos
+dofo
+doff
+dofd
+dofv
+dofy
+dofs
+dodo
+dodf
+dodd
+dodv
+dody
+dods
+dovo
+dovf
+dovd
+dovv
+dovy
+dovs
+doyo
+doyf
+doyd
+doyv
+doyy
+doys
+doso
+dosf
+dosd
+dosv
+dosy
+doss
+dfoo
+dfof
+dfod
+dfov
+dfoy
+dfos
+dffo
+dfff
+dffd
+dffv
+dffy
+dffs
+dfdo
+dfdf
+dfdd
+dfdv
+dfdy
+dfds
+dfvo
+dfvf
+dfvd
+dfvv
+dfvy
+dfvs
+dfyo
+dfyf
+dfyd
+dfyv
+dfyy
+dfys
+dfso
+dfsf
+dfsd
+dfsv
+dfsy
+dfss
+ddoo
+ddof
+ddod
+ddov
+ddoy
+ddos
+ddfo
+ddff
+ddfd
+ddfv
+ddfy
+ddfs
+dddo
+dddf
+dddd
+dddv
+dddy
+ddds
+ddvo
+ddvf
+ddvd
+ddvv
+ddvy
+ddvs
+ddyo
+ddyf
+ddyd
+ddyv
+ddyy
+ddys
+ddso
+ddsf
+ddsd
+ddsv
+ddsy
+ddss
+dvoo
+dvof
+dvod
+dvov
+dvoy
+dvos
+dvfo
+dvff
+dvfd
+dvfv
+dvfy
+dvfs
+dvdo
+dvdf
+dvdd
+dvdv
+dvdy
+dvds
+dvvo
+dvvf
+dvvd
+dvvv
+dvvy
+dvvs
+dvyo
+dvyf
+dvyd
+dvyv
+dvyy
+dvys
+dvso
+dvsf
+dvsd
+dvsv
+dvsy
+dvss
+dyoo
+dyof
+dyod
+dyov
+dyoy
+dyos
+dyfo
+dyff
+dyfd
+dyfv
+dyfy
+dyfs
+dydo
+dydf
+dydd
+dydv
+dydy
+dyds
+dyvo
+dyvf
+dyvd
+dyvv
+dyvy
+dyvs
+dyyo
+dyyf
+dyyd
+dyyv
+dyyy
+dyys
+dyso
+dysf
+dysd
+dysv
+dysy
+dyss
+dsoo
+dsof
+dsod
+dsov
+dsoy
+dsos
+dsfo
+dsff
+dsfd
+dsfv
+dsfy
+dsfs
+dsdo
+dsdf
+dsdd
+dsdv
+dsdy
+dsds
+dsvo
+dsvf
+dsvd
+dsvv
+dsvy
+dsvs
+dsyo
+dsyf
+dsyd
+dsyv
+dsyy
+dsys
+dsso
+dssf
+dssd
+dssv
+dssy
+dsss
+vooo
+voof
+vood
+voov
+vooy
+voos
+vofo
+voff
+vofd
+vofv
+vofy
+vofs
+vodo
+vodf
+vodd
+vodv
+vody
+vods
+vovo
+vovf
+vovd
+vovv
+vovy
+vovs
+voyo
+voyf
+voyd
+voyv
+voyy
+voys
+voso
+vosf
+vosd
+vosv
+vosy
+voss
+vfoo
+vfof
+vfod
+vfov
+vfoy
+vfos
+vffo
+vfff
+vffd
+vffv
+vffy
+vffs
+vfdo
+vfdf
+vfdd
+vfdv
+vfdy
+vfds
+vfvo
+vfvf
+vfvd
+vfvv
+vfvy
+vfvs
+vfyo
+vfyf
+vfyd
+vfyv
+vfyy
+vfys
+vfso
+vfsf
+vfsd
+vfsv
+vfsy
+vfss
+vdoo
+vdof
+vdod
+vdov
+vdoy
+vdos
+vdfo
+vdff
+vdfd
+vdfv
+vdfy
+vdfs
+vddo
+vddf
+vddd
+vddv
+vddy
+vdds
+vdvo
+vdvf
+vdvd
+vdvv
+vdvy
+vdvs
+vdyo
+vdyf
+vdyd
+vdyv
+vdyy
+vdys
+vdso
+vdsf
+vdsd
+vdsv
+vdsy
+vdss
+vvoo
+vvof
+vvod
+vvov
+vvoy
+vvos
+vvfo
+vvff
+vvfd
+vvfv
