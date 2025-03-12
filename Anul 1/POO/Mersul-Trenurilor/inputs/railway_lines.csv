@@ -1,0 +1,6 @@
+railway id,number of stations,stations list,distances list
+1,11,Izmir,Athens,Tirana,Skopje,Sofia,Varna,Constanta,Braila,Odessa,Chisinau,Kiev,125,54,67,18,60,45,100,120,79,84
+2,9,Ankara,Istanbul,Varna,Bucharest,Craiova,Belgrade,Sarajevo,Prishtina,Tirana,52,36,15,108,45,67,38,15
+3,9,Sofia,Belgrade,Budapest,Bratislava,Vienna,Prague,Dresden,Berlin,Kiel,20,15,38,96,65,42,39,11
+4,4,Cluj Napoca,Brasov,Iasi,Chisinau,54,68,73
+5,8,Kiev,Minsk,Warsaw,Krakow,Vienna,Venice,Rome,Palermo,34,57,44,81,26,51,82

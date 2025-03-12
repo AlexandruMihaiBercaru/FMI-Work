@@ -1,3 +1,6 @@
 [submodule "POO/Mersul-Trenurilor"]
 	path = POO/Mersul-Trenurilor
 	url = https://github.com/AlexandruMihaiBercaru/Mersul-Trenurilor.git
+[submodule "Anul 1/TW/Web-Technologies-Project"]
+	path = Anul 1/TW/Web-Technologies-Project
+	url = https://github.com/AlexandruMihaiBercaru/Web-Technologies-Project.git
