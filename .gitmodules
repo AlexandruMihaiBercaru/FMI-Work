@@ -7,3 +7,6 @@
 [submodule "Anul 2/SGBD/Proiect/DBMS-Project"]
 	path = Anul 2/SGBD/Proiect/DBMS-Project
 	url = https://github.com/AlexandruMihaiBercaru/DBMS-Project.git
+[submodule "Anul 2/DAW/Otterly"]
+	path = Anul 2/DAW/Otterly
+	url = https://github.com/AlexandruMihaiBercaru/Otterly.git
