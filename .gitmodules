@@ -4,3 +4,6 @@
 [submodule "Anul 1/TW/Web-Technologies-Project"]
 	path = Anul 1/TW/Web-Technologies-Project
 	url = https://github.com/AlexandruMihaiBercaru/Web-Technologies-Project.git
+[submodule "Anul 2/SGBD/Proiect/DBMS-Project"]
+	path = Anul 2/SGBD/Proiect/DBMS-Project
+	url = https://github.com/AlexandruMihaiBercaru/DBMS-Project.git

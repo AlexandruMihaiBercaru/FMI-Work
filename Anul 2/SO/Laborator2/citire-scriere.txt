@@ -1,0 +1,37 @@
+//DE VERIFICAT
+/*
+	int file_len = stats.st_size;
+	int rem_bytes = file_len;
+	int total_read_bytes = 0;
+	
+	char *buf  = (char*)malloc(sizeof(char) * file_len);
+
+	while(total_read_bytes < file_len)
+	{
+		//citeste din fisierul referit de fd1 in bufferul buf un nr de rem_bytes
+		//read_bytes -> cati bytes a citit de fapt
+		int read_bytes = read(fd1, buf, rem_bytes);
+		//actualizez nr de bytes cititi si nr de bytes ramasi de citit
+		total_read_bytes += read_bytes;
+		rem_bytes -= read_bytes;
+		buf += read_bytes;
+
+		if(read_bytes < 0)
+		{
+			perror("Eroare la cirirea din primul fisier");
+			return errno;
+		}
+
+		//voi scrie read_bytes din buf in fisierul referit de fd2
+		int written_bytes = write(fd2, buf, read_bytes);
+
+		if (written_bytes < 0)
+		{
+			perror("Eroare la scrierea in al doilea fisier");
+			return errno;
+		}
+		printf("S-au citit %d bytes din %s si s-au scris %d bytes in %s\n", read_bytes, argv[1],
+		written_bytes, argv[2]);
+
+	}
+*/
