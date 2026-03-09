@@ -11,3 +11,12 @@
 	path = Anul 2/DAW/Otterly
 	url = https://github.com/AlexandruMihaiBercaru/Otterly.git
 
+[submodule "Anul 2/PAOJ/PAOJ-Labs"]
+	path = Anul 2/PAOJ/PAOJ-Labs
+	url = https://github.com/AlexandruMihaiBercaru/PAOJ-Labs.git
+[submodule "Anul 2/PAOJ/PAOJ-Project"]
+	path = Anul 2/PAOJ/PAOJ-Project
+	url = https://github.com/AlexandruMihaiBercaru/PAOJ-Project.git
+[submodule "Anul 2/MDS/arcana"]
+	path = Anul 2/MDS/arcana
+	url = https://github.com/AlexZ1007/arcana.git
