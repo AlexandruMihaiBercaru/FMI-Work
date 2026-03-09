@@ -1,0 +1,31 @@
+%al k-lea element al listei
+
+element_at(X, [X|_], 1).
+element_at(E, [_|T], K) :-
+    K1 is K-1,
+    element_at(E, T, K1).
+
+
+%imparte o lista in doua parti
+
+split(L2, _, [], L2).
+split([H|T], Len, [H|L1], L2) :-
+    Len>0,
+    Lenprim is Len-1,
+    split(T, Lenprim, L1, L2).
+
+
+%lista intregi
+
+range(X, X, [X]).
+range(A, B, [A|L]) :-
+    A<B,
+    A1 is A+1,
+    range(A1, B, L).
+
+
+%cmmdc
+
+gcd(X, 0, X) :- X>0.
+
+gcd(X,Y,G) :- Y > 0, Z is X mod Y, gcd(Y,Z,G).

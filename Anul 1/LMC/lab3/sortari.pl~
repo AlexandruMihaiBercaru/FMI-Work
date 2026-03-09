@@ -1,0 +1,15 @@
+
+%InsertionSort
+/* Predicatul insertsort/2 sorteaz¢ lista de pe primul argument folosind algoritmul insertion sort. Scrieti regulile care definesc comportamentul predicatului ajutator insert/3. */
+
+
+insertsort([],[]).
+insertsort([H|T],L) :- insertsort(T,L1), insert(H,L1,L).
+
+insert(X, [], [X]).
+insert(X, [H|T], [X|[H|T]]) :- X<H.
+insert(X, [H|T], [H|L]) :-
+    X >= H,
+    insert(X, T, L).
+
+

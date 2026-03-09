@@ -1,0 +1,21 @@
+
+
+consec([]).
+consec([_]).
+consec([X, Y|T]) :-
+    Y is X-1,
+    consec([Y|T]).
+
+
+%listare_studenti(ListaStudenti, PragNota, ListareRezultat)
+
+
+listare_studenti([], _, []).
+listare_studenti([student(Nume, Nota)|T], Prag, [student(Nume, Nota)|Rez]) :-
+    Nota < Prag,
+    listare_studenti(T, Prag, Rez).
+listare_studenti([student(_, Nota)|T], Prag, Rez) :-
+    Nota >= Prag,
+    listare_studenti(T, Prag, Rez).
+
+

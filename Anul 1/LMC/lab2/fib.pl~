@@ -1,0 +1,13 @@
+
+fibo(0, 1).
+fibo(1, 1).
+
+fibo(Poz2, X) :-
+    fibo(Poz, N1),
+    fibo(Poz1, N2),
+    Poz2 is Poz+1,
+    Poz is Poz1+1,
+    X is N2+N1.
+
+
+

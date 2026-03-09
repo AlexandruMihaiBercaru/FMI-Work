@@ -1,0 +1,41 @@
+/*Scrieti un predicat scalarMult/3, al carui prim argument este un
+intreg, al doilea argument este o lista de intregi, iar al treilea
+argument este rezultatul inmultirii cu scalari al celui de-al doilea
+argument cu primul*/
+
+scalarMult(_, [], []).
+
+scalarMult(N, [H|T], [H1|T1]) :-
+
+    H1 is N * H,
+    scalarMult(N, T, T1).
+
+/*Scriei un predicat dot/3 al carui prim argument este o lista de
+intregi, al doilea argument este o lista de intregi de lungimea primeia, iar
+al treilea argument este produsul scalar dintre primele doua
+argumente.*/
+
+dot([], [], 0).
+dot([Ha|Ta], [Hb|Tb], Res) :-
+    dot(Ta, Tb, Res2),
+    Res is Res2 + Ha*Hb.
+
+
+/* Scrieti un predicat max/2 care cauta elementul maxim intr-o
+lista de numere naturale.*/
+
+max([], 0).
+max([H|T], H) :-
+    max(T, Max2),
+    H > Max2.
+
+max([H|T], Max2) :-
+    max(T, Max2),
+    H =< Max2.
+
+
+
+
+
+
+
