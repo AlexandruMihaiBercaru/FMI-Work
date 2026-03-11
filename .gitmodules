@@ -20,3 +20,9 @@
 [submodule "Anul 2/MDS/arcana"]
 	path = Anul 2/MDS/arcana
 	url = https://github.com/AlexZ1007/arcana.git
+[submodule "Anul 2/RC/computer-networks"]
+	path = Anul 2/RC/computer-networks
+	url = https://github.com/AlexandruMihaiBercaru/computer-networks.git
+[submodule "Anul 2/IA/deepfake-classification"]
+	path = Anul 2/IA/deepfake-classification
+	url = https://github.com/AlexandruMihaiBercaru/deepfake-classification.git

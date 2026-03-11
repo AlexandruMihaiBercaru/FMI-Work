@@ -3,29 +3,29 @@
 ## First year
 #### Work Included:
 
- - Computer Architecture (ASC) - `Assembly x86`
- - Algorithm Programming (PA) - `Python`
- - Databases (BD) - `SQL`
- - Data Structures (SD) - `C++`
- - Web Technologies (TW) - `HTML, CSS, Javascript, Node.js`
- - Object-Oriented Programming (OOP) - `C++`
- - Formal Languages and Automata Theory (LFA) - `Python`
- - Mathematical and Computational Logic (LMC) - `prolog`
+ - [Computer Architecture (ASC)](./Anul%201/ASC/) - `Assembly x86`
+ - [Algorithm Programming (PA)](./Anul%201/PA/) - `Python`
+ - [Databases (BD)](./Anul%201/BD/) - `SQL`
+ - [Data Structures (SD)](./Anul%201/SD/) - `C++`
+ - [Web Technologies (TW)](./Anul%201/TW/) - `HTML, CSS, Javascript, Node.js`
+ - [Object-Oriented Programming (OOP)](./Anul%201/POO/) - `C++`
+ - [Formal Languages and Automata Theory (LFA)](./Anul%201/LFA/) - `Python`
+ - [Mathematical and Computational Logic (LMC)](./Anul%201/LMC/) - `prolog`
   
 
  Other classes I have taken: Algebraic Structures in Informatics, Differential and Integral Calculus, Geometry And Linear Algebra, Critical Thinking and Academic Ethics
 
 ## Second Year
 #### Work Included:
- - Database Management Systems (SGBD) - `PL/SQL`
- - Probability Theory & Statistics (PS) - `Python (numpy, matplotlib)`
- - Functional Programming (PF) - `Haskell`
- - Fundamental Algorithms (AF) - `C++`
- - Operating Systems (SO) - `C`
- - Web Application Development (DAW) - `ASP.NET, C#`
- - Advances Oriented Programming in Java (PAOJ) - `Java` (TODO)
- - Artificial Intelligence (IA) - `Python` (TODO)
- - Computer Networks (RC) - `Python (scapy), Cisco` (TODO)
- - Fundamentals of Programming Laguages (FLP) - `Haskell` (TODO)
- - Advances Algorithms (AA) - `C++, Python` (TODO)
- - Methods in Software Development (MDS) - `Javascipt, Node.js, HTML, CSS` (TODO)
+ - [Database Management Systems (SGBD)](./Anul%202/SGBD/) - `PL/SQL`
+ - [Probability Theory & Statistics (PS)](./Anul%202/PS) - `Python (numpy, matplotlib)`
+ - [Functional Programming (PF)](./Anul%202/PF/) - `Haskell`
+ - [Fundamental Algorithms (AF)](./Anul%202/AF/) - `C++`
+ - [Operating Systems (SO)](./Anul%202/SO/) - `C`
+ - [Web Application Development (DAW)](./Anul%202/DAW/) - `ASP.NET, C#`
+ - [Advances Oriented Programming in Java (PAOJ)](./Anul%202/PAOJ/) - `Java` 
+ - [Artificial Intelligence (IA)](./Anul%202/IA/) - `Python` 
+ - [Computer Networks (RC)](./Anul%202/RC/) - `Python (scapy), Cisco` 
+ - [Fundamentals of Programming Laguages (FLP)](./Anul%202/FLP/) - `Haskell` 
+ - [Advances Algorithms (AA)](./Anul%202/AA/) - `C++, Python` 
+ - [Methods in Software Development (MDS)](./Anul%202/MDS/) - `Javascipt, Node.js, HTML, CSS` 
