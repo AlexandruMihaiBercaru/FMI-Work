@@ -29,3 +29,10 @@
  - [Fundamentals of Programming Laguages (FLP)](./Anul%202/FLP/) - `Haskell` 
  - [Advances Algorithms (AA)](./Anul%202/AA/) - `C++, Python` 
  - [Methods in Software Development (MDS)](./Anul%202/MDS/) - `Javascipt, Node.js, HTML, CSS` 
+  
+
+## Third Year
+#### Work Included:
+- [Concepts and Application in COmputer Vision (CAVA)](./Anul%203/CAVA/) - `openCV`
+- [Computer Graphics (GC)](./Anul%203/GC/) - `C++ (OpenGL)`
+- [Numerical Calculus for Informatics (CNI)](./Anul%203/CNI/) - `python (numpy, scikit-learn)`

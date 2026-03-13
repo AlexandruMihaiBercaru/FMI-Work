@@ -26,3 +26,15 @@
 [submodule "Anul 2/IA/deepfake-classification"]
 	path = Anul 2/IA/deepfake-classification
 	url = https://github.com/AlexandruMihaiBercaru/deepfake-classification.git
+[submodule "Anul 3/GC/the-lighthouse"]
+	path = Anul 3/GC/the-lighthouse
+	url = https://github.com/AlexandruMihaiBercaru/the-lighthouse.git
+[submodule "Anul 3/GC/opengl-2D-pool"]
+	path = Anul 3/GC/opengl-2D-pool
+	url = https://github.com/AlexandruMihaiBercaru/opengl-2D-pool.git
+[submodule "Anul 3/CAVA/where-is-everyone"]
+	path = Anul 3/CAVA/where-is-everyone
+	url = https://github.com/AlexandruMihaiBercaru/where-is-everyone.git
+[submodule "Anul 3/CAVA/qwirkle-connect-score-calculator"]
+	path = Anul 3/CAVA/qwirkle-connect-score-calculator
+	url = https://github.com/AlexandruMihaiBercaru/qwirkle-connect-score-calculator.git
