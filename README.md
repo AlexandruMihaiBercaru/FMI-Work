@@ -23,16 +23,16 @@
  - [Fundamental Algorithms (AF)](./Anul%202/AF/) - `C++`
  - [Operating Systems (SO)](./Anul%202/SO/) - `C`
  - [Web Application Development (DAW)](./Anul%202/DAW/) - `ASP.NET, C#`
- - [Advances Oriented Programming in Java (PAOJ)](./Anul%202/PAOJ/) - `Java` 
+ - [Object-Oriented Programming in Java (PAOJ)](./Anul%202/PAOJ/) - `Java` 
  - [Artificial Intelligence (IA)](./Anul%202/IA/) - `Python` 
  - [Computer Networks (RC)](./Anul%202/RC/) - `Python (scapy), Cisco` 
  - [Fundamentals of Programming Laguages (FLP)](./Anul%202/FLP/) - `Haskell` 
- - [Advances Algorithms (AA)](./Anul%202/AA/) - `C++, Python` 
+ - [Advanced Algorithms (AA)](./Anul%202/AA/) - `C++, Python` 
  - [Methods in Software Development (MDS)](./Anul%202/MDS/) - `Javascipt, Node.js, HTML, CSS` 
   
 
 ## Third Year
 #### Work Included:
-- [Concepts and Application in COmputer Vision (CAVA)](./Anul%203/CAVA/) - `openCV`
+- [Concepts and Applications in Computer Vision (CAVA)](./Anul%203/CAVA/) - `OpenCV`
 - [Computer Graphics (GC)](./Anul%203/GC/) - `C++ (OpenGL)`
 - [Numerical Calculus for Informatics (CNI)](./Anul%203/CNI/) - `python (numpy, scikit-learn)`
